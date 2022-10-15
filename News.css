@@ -1,0 +1,120 @@
+.design{
+    position: absolute;
+    height: max-content;
+    width: max-content;
+}
+.back{
+    background-image:image(31Z_2104.w013.n001.430B.p30.jpg);
+}
+body {
+    
+    background-image: url("31Z_2104.w013.n001.430B.p30.jpg");
+background-size: 1538px 770px;    
+/* width: 300px; */
+   background-repeat: no-repeat;
+   background: position 800px  0px;
+   background-attachment: ;
+   }
+   .head{
+    color: #d4cbcb;
+    position: absolute;
+    bottom: 610px;
+    left: 80px;
+    font-size: 30px;
+   }
+   .Sub{
+    position: absolute;
+    color: #d4cbcb;
+    bottom: 270px;
+    left: 80px;
+    font-size: 52px;
+   }
+   .lorem{
+    font-size: 15px;
+    position: absolute;
+    color: #d4cbcb;
+    left: 110px;
+    bottom: 250px;
+   }
+   .square{
+    height: 50px;
+    width: 100px;
+    background-color: #a5398a;
+    border-radius: 50%;
+    position: absolute;
+    left: 110px;
+    height: 70px;
+    width: 190px;
+    bottom: 180px;
+   }
+   .squaree{
+    height: 50px;
+    width: 100px;
+    background-color: #a5398a;
+    border-radius: 50%;
+    position: absolute;
+    left: 350px;
+    height: 70px;
+    width: 190px;
+    bottom: 180px;
+   }
+   .more{
+    color: #d4cbcb;
+    position: absolute;
+    left: 139px;
+    bottom: 200px;
+    font-size: 25px;
+   }
+   a{
+text-decoration: none;
+   }
+   .view{
+    color: #d4cbcb;
+    position: absolute;
+    left: 387px;
+    bottom: 200px;
+    font-size: 25px;
+   }
+   .home{
+    color: #d4cbcb;
+    position: absolute;
+    bottom: 660px;
+    left: 650px;
+   }
+   .about{
+    color: #d4cbcb;
+    position: absolute;
+    bottom: 660px;
+    left: 750px;
+   }
+   .features{
+    color: #d4cbcb;
+    position: absolute;
+    bottom: 660px;
+    left: 850px;
+   }
+   .implementation{
+    color: #d4cbcb;
+    position: absolute;
+    bottom: 660px;
+    left: 950px;
+   }
+   .contact{
+    color: #d4cbcb;
+    position: absolute;
+    bottom: 660px;
+    left: 1100px;
+   }
+   .sign{
+    position: absolute;
+    color: #d4cbcb;
+    bottom: 660px;
+    left: 1340px;
+   }
+   .sea{
+    position: absolute;
+    bottom: 645px;
+    left: 1408px;
+height: 43px;
+width: 48px;
+   }
